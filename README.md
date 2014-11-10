@@ -18,15 +18,15 @@ Esta é a nova source da TrinityCore estamos atualizando devagar, adicionando no
 As pessoas estão vendendo essa source para ter lucros para si mesmo, eu estou dando-lo gratuitamente.
 
 
-[dbc](#)
+[dbc](https://mega.co.nz/#!jxsXXKRD!FnPIPcIcTLVz_NaGhqCIwff84vSEE-uRglsqOLkGNHE)
 
-[maps](#)
+[maps](https://mega.co.nz/#!HktXRayL!0GAKnG4SLRWVoQ34qVZwbVz5-SVqR0L0MErKH86QQuw)
 
-[mmaps](#)
+[mmaps](https://mega.co.nz/#!7hMXTJxL!eDSoLgRed_FDljTADNf03QWpHIhZY3MK3h_JRFdOsVE)
 
-[vmaps](#)
+[vmaps](https://mega.co.nz/#!G8kEkaYC!mH3GWasxMYnqFjeeDQZmitaetrJXIX80HJ5Cqv3gkIo)
 
-[Todas as Databases (auth, characters e world)](#)
+[Todas as Databases (auth, characters e world)](https://mega.co.nz/#!ztUHXBQA!NM69VTlgSviJ-B1pNeJOO8ML3xXkk_WkmfTNS4Ll4eo)
 
 [Patch - Update - Projeto World Of Warcraft Tradução em Português [BR]] Em Breve
 
